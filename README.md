@@ -4,7 +4,7 @@ Some background knowledge:
 BERT can generate 2 kind of output: 1. two dimensional sequence_output(word embeddings) .  2. one dimensional pooled output(cls or sentence embedding) 
 I recommend to use sequence_output of BERT(Many paper show that this is better than cls embedding).  
   
-Python 3.6. 
+Python 3.6  
 Required Library:  
 PyTorch
 transformers: pip install transformers
