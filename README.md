@@ -11,6 +11,8 @@ transformers: pip install transformers
 tensorflow2.0  
   
 I recommend to use Bert_classification_tf2.py or ipynb  
+
+I set max sequence length to 512. You can change it in code.    
   
 For tensorflow 2.0: Bert_classification_tf2.py or ipynb  
 I implemented 3 models for fine-tuning BERT:  
