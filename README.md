@@ -25,4 +25,7 @@ if trainable=False: --> the weights of pre-trained BERT will not be adjusted dur
 For pytorch: Bert_classification_pytorch.py or ipynb  
 I only implemented 1 model for fine-tuning BERT: create a fine-tune model that uses one dimensional pooled output(cls or sentence embedding)  
   
-I put the example codes inside each python file. I used part of data in IMDB datatset as an example.
+I put the example codes inside each python file. I used part of data in IMDB datatset as an example.  
+  
+ Reference:   
+ Chris McCormick and Nick Ryan, "BERT Fine-Tuning Tutorial with PyTorch", https://mccormickml.com/2019/07/22/BERT-fine-tuning/
