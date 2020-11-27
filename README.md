@@ -6,10 +6,10 @@ I recommend to use sequence_output of BERT(Many paper show that this is better t
   
 Python 3.6  
 Required Library:  
-PyTorch
-transformers: pip install transformers
-tensorflow2.0
-
+PyTorch  
+transformers: pip install transformers  
+tensorflow2.0  
+  
 I recommend to use Bert_classification_tf2.py or ipynb  
   
 For tensorflow 2.0: Bert_classification_tf2.py or ipynb  
